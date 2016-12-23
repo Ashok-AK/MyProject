@@ -2,7 +2,7 @@
 
 class Sample {
 	function __construct()	{
-		echo "======================";die;
+		echo "==========HELLO============";die;
 	} 
 }
 
