@@ -2,7 +2,7 @@
 
 class Sample {
 	function __construct()	{
-		echo "==========HELLO============";die;
+		echo "==========HELLO into the 3rd branch============";die;
 	} 
 }
 
